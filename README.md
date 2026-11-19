@@ -45,4 +45,24 @@ react.js only uses one html. Uses javascript. Everything in the html is loaded a
 
 Almost everything shouldnt load or chang but should only change when data is passed through. 
 
-download node.js in
+download node.js in their website
+
+to create project:
+npm create vite@latest my-react-app
+
+to edit and show changes to website:
+npm run dev
+
+
+component and screens - screens have components (nav bar, tabs, main logo, settings or something)
+install react es7 extension to make it easier to do coding
+install prettier ESLint -> makes the code easier especially the indentations
+install auto rename tag -> auto creates 
+install rainbow indents -> makes it easy to read indents
+
+add a components folder and put Header.jsx
+
+to add react bootstrap:
+npm install react-bootstrap bootstrap
+
+
