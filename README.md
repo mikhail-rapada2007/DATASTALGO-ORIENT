@@ -40,3 +40,5 @@ you need AI integration (chatbot, prediction model, automation)
 you need payment such as paypal API
 no same project (first come, first serve)
 
+# First Lesson
+
