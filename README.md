@@ -66,3 +66,12 @@ to add react bootstrap:
 npm install react-bootstrap bootstrap
 
 
+download the bootstrap stylesheet in the bootswatch.com website and drag the file in the src folder
+
+you can now copy paste from bootstrap and import 
+
+you can now put the css code in index.css 
+
+some skills:
+-do not remove error lines make them into comments
+-ctrl + d to replace every same word
