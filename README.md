@@ -41,4 +41,8 @@ you need payment such as paypal API
 no same project (first come, first serve)
 
 # First Lesson
+react.js only uses one html. Uses javascript. Everything in the html is loaded already. 
 
+Almost everything shouldnt load or chang but should only change when data is passed through. 
+
+download node.js in
