@@ -65,7 +65,6 @@ add a components folder and put Header.jsx
 to add react bootstrap:
 npm install react-bootstrap bootstrap
 
-
 download the bootstrap stylesheet in the bootswatch.com website and drag the file in the src folder
 
 you can now copy paste from bootstrap and import 
@@ -75,3 +74,17 @@ you can now put the css code in index.css
 some skills:
 -do not remove error lines make them into comments
 -ctrl + d to replace every same word
+
+# Second Lesson
+made screens folder and put homescreen.jsx. put the images in the public and the products.js in src 
+
+products.js
+has an array of sets
+make product map that is like a for loop to render out the products in products.js
+
+single, quote, double quote, and back ticks, back ticks render $ as a function and not a string
+
+search for cdnjs. font-awesome to borrow icons and paste the link in index.html. remove referrer, integrity, policy etc.
+
+
+
